@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1601750597 source:c:\users\dell\desktop\miniproj\studentupdt1\student.cpp
+	"student.h"
+	<string>
+
+1601751020 c:\users\dell\desktop\miniproj\studentupdt1\student.h
+	<string>
+
+1601752713 source:c:\users\dell\desktop\miniproj\studentupdt1\studentdb.cpp
+	"highSchoolStudent.h"
+	"student.h"
+	"studentDB.h"
+	<string>
+	<list>
+	<iterator>
+	<thread>
+	<semaphore.h>
+	<iostream>
+
+1601807808 c:\users\dell\desktop\miniproj\studentupdt1\highschoolstudent.h
+	<string>
+	"student.h"
+
+1601751008 c:\users\dell\desktop\miniproj\studentupdt1\studentdb.h
+	<string>
+	<cstdint>
+	"student.h"
+	"highSchoolStudent.h"
+	<list>
+	<iterator>
+
+1601751308 source:c:\users\dell\desktop\miniproj\studentupdt1\highschoolstudent.cpp
+	<string>
+	"student.h"
+	"highSchoolStudent.h"
+
+1601752476 source:c:\users\dell\desktop\miniproj\studentupdt1\student-testdb.cpp
+	"student.h"
+	"highSchoolStudent.h"
+	"studentDB.h"
+	<gtest/gtest.h>
+	<iostream>
+	<pthread.h>
+	<semaphore.h>
+	<list>
+	<iterator>
+	<cstdint>
+
+1601751458 source:c:\users\dell\desktop\miniproj\studentupdt1\student-test.cpp
+	"student.h"
+	"highSchoolStudent.h"
+	"studentDB.h"
+	<gtest/gtest.h>
+
