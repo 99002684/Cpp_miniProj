@@ -1,5 +1,6 @@
 # Cpp_miniProj
 
+<p>Online Student Management System is an application where the teacher can create database of student information (ID number, Name, Mobile number, etc.), can add student’s information as well as they can modify database of student’s information with the help of their ID numbers and can access all the information with the help of their ID number and also can remove any student information from the database by using their ID number, if required. These actions can be done online with the help of this application. Teachers do not have to spend more time for searching student’s information which is on paper, whenever they required. They can avoid use of file of student’s database for small requirements.</p>
 
 
 
